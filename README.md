@@ -7,7 +7,7 @@ Customize the **topic, word limit, and writing style** to create blogs for resea
 
 ## 🚀 Features
 - 🌐 Simple **Streamlit web interface**  
-- 🧠 Powered by **LLaMA 2 (7B)** via Ollama  
+- 🧠 Powered by **LLaMA2-7B** via Ollama  
 - ✍️ Choose **writing style** (Researchers / Data Scientist / Common People)  
 - 🔢 Control **word limit**  
 - 🎨 Clean UI with custom styling  
@@ -18,7 +18,7 @@ Customize the **topic, word limit, and writing style** to create blogs for resea
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/mainapp.git
+   git clone https://github.com/teja16asv/Blog-Generation-using-Llama.git
    cd mainapp
 
 2.Install Dependencies
@@ -39,23 +39,12 @@ Run the app:
   ```
 ## Snapshot
 
-   
-## 📂 Project Structure
-
-├── main.py             # Main Streamlit app
-
-├── requirements.txt    # Dependencies
-
-└── README.md           # Project documentation
+![Snapshot](https://github.com/teja16asv/Blog-Generation-using-Llama/blob/main/Images/Screenshot.png)
 
 ## 🛠️ Tech Stack
 
-1. Streamlit
+- Streamlit
 
-2. Ollama
+- Ollama
 
-3. LLaMA 2 (7B model)
-
-## 🤝 Contributing
-
-Contributions are welcome!
+- LLaMA 2 (7B model)
