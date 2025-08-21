@@ -24,3 +24,34 @@ Customize the **topic, word limit, and writing style** to create blogs for resea
 2.Install Dependencies
   ```bash
   pip install -r requirements.txt
+  ```
+
+3.Make sure Ollama is installed and LLaMA 2 is pulled:
+  ```bash
+   ollama pull llama2:7b
+  ```
+
+## ▶️ Usage
+
+Run the app:
+  ```bash
+  streamlit run main.py
+  ```
+
+## 📂 Project Structure
+
+├── main.py             # Main Streamlit app
+├── requirements.txt    # Dependencies
+└── README.md           # Project documentation
+
+## 🛠️ Tech Stack
+
+1. Streamlit
+
+2. Ollama
+
+3. LLaMA 2 (7B model)
+
+## 🤝 Contributing
+
+Contributions are welcome!
