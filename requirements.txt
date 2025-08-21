@@ -1,0 +1,9 @@
+streamlit
+ollama
+
+# These are useful in the case where we dont use ollama.
+# sentence-transformers
+# uvicorn
+# ctransformers
+# langchain
+# python-box
