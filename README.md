@@ -37,11 +37,15 @@ Run the app:
   ```bash
   streamlit run main.py
   ```
+## Snapshot
 
+   
 ## 📂 Project Structure
 
 ├── main.py             # Main Streamlit app
+
 ├── requirements.txt    # Dependencies
+
 └── README.md           # Project documentation
 
 ## 🛠️ Tech Stack
